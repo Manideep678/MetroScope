@@ -87,11 +87,9 @@ Chennai Metro Rail Limited
 
 👨‍💻 Author
 
-Pranav Kumar
+MANIDEEP REDDY
 
-Email: pranavdevula.199@gmail.com
-LinkedIn: https://linkedin.com/in/pranav-kumar-611345289
-GitHub: https://github.com/pranavkumar19926
+
 
 
 ⭐ If you like this project
